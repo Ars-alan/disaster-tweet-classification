@@ -7,6 +7,8 @@ Sentiment analysis on tweets to predict real vs metaphorical disasters.
 Training set - 7503 tweets\
 Test set - 3243 tweets\
 Information available - ID, location, text, keyword, target of each tweet\
+
+
 Word clouds to represent high frequency words in real disaster tweets
 
 ![image](https://user-images.githubusercontent.com/68511654/129452955-a81d2aeb-cb75-4ac3-be57-07396d3567a1.png)
