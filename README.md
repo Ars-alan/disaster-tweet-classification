@@ -1,4 +1,3 @@
-# Disaster-Tweet-Classification
 
 # Problem Statement
 Sentiment analysis on tweets to predict real vs metaphorical disasters.
